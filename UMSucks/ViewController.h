@@ -9,5 +9,10 @@
 #import <UIKit/UIKit.h>
 
 @interface ViewController : UIViewController
+@property (weak, nonatomic) IBOutlet UITextField *ipfield;
+@property (weak, nonatomic) IBOutlet UIButton *findGateway;
+@property (weak, nonatomic) IBOutlet UIButton *exploit;
+@property (weak, nonatomic) IBOutlet UILabel *loginLable;
+@property (weak, nonatomic) IBOutlet UILabel *passLable;
 
 @end
