@@ -1,6 +1,6 @@
 //
-//  UMSucksTests.m
-//  UMSucksTests
+//  freePW_tc7200EploitTests.m
+//  freePW_tc7200EploitTests
 //
 //  Created by tihm on 03.07.14.
 //  Copyright (c) 2014 tihmstar. All rights reserved.
@@ -8,11 +8,11 @@
 
 #import <XCTest/XCTest.h>
 
-@interface UMSucksTests : XCTestCase
+@interface freePW_tc7200EploitTests : XCTestCase
 
 @end
 
-@implementation UMSucksTests
+@implementation freePW_tc7200EploitTests
 
 - (void)setUp
 {
