@@ -7,7 +7,7 @@
 //
 
 #import "ViewController.h"
-#import "UMSucks-exploit.h"
+#import "freePW_tc7200Eploit.h"
 @interface ViewController ()
 
 @end
@@ -40,7 +40,7 @@
 }
 
 -(IBAction)getGatewayIp:(id)sender{
-    self.ipfield.text = [UMSucks_exploit getIPAddressGateway];
+    self.ipfield.text = [freePW_tc7200Eploit getIPAddressGateway];
 }
 
 -(IBAction)runExploit:(id)sender{
@@ -48,7 +48,7 @@
     NSString *ip = self.ipfield.text;
     
     if ([ip length] > 5) {
-        NSArray *cred = [UMSucks_exploit getLoginData:ip];
+        NSArray *cred = [freePW_tc7200Eploit getLoginData:ip];
         if (!cred) {
             NSLog(@"exploit failed");
             self.loginLable.text = @"exploit failed";

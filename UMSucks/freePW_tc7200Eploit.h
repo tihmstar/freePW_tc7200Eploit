@@ -8,7 +8,7 @@
 
 #import <Foundation/Foundation.h>
 
-@interface UMSucks_exploit : NSObject
+@interface freePW_tc7200Eploit : NSObject
 
 +(NSArray *)getLoginData:(NSString *)gateway; // [username,pass]
 +(NSString *)getIPAddressGateway;

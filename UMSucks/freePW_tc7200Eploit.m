@@ -15,11 +15,11 @@
 **************************
 */
 
-#import "UMSucks-exploit.h"
+#import "freePW_tc7200Eploit.h"
 #include <ifaddrs.h>
 #include <arpa/inet.h>
 
-@implementation UMSucks_exploit
+@implementation freePW_tc7200Eploit
 
 +(NSString *)getIPAddressGateway
 {

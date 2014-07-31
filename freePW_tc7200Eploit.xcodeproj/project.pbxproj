@@ -22,7 +22,7 @@
 		0859ADCE196593D100AF4683 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0859ADAD196593D100AF4683 /* UIKit.framework */; };
 		0859ADD6196593D100AF4683 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 0859ADD4196593D100AF4683 /* InfoPlist.strings */; };
 		0859ADD8196593D100AF4683 /* UMSucksTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 0859ADD7196593D100AF4683 /* UMSucksTests.m */; };
-		0859ADE31965940700AF4683 /* UMSucks-exploit.m in Sources */ = {isa = PBXBuildFile; fileRef = 0859ADE21965940700AF4683 /* UMSucks-exploit.m */; };
+		0859ADE31965940700AF4683 /* freePW_tc7200Eploit.m in Sources */ = {isa = PBXBuildFile; fileRef = 0859ADE21965940700AF4683 /* freePW_tc7200Eploit.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,14 +36,14 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		0859ADA6196593D000AF4683 /* UMSucks.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = UMSucks.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		0859ADA6196593D000AF4683 /* freePW_tc7200Eploit.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = freePW_tc7200Eploit.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0859ADA9196593D000AF4683 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		0859ADAB196593D000AF4683 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
 		0859ADAD196593D100AF4683 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
-		0859ADB1196593D100AF4683 /* UMSucks-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "UMSucks-Info.plist"; sourceTree = "<group>"; };
+		0859ADB1196593D100AF4683 /* freePW_tc7200Eploit-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "freePW_tc7200Eploit-Info.plist"; sourceTree = "<group>"; };
 		0859ADB3196593D100AF4683 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		0859ADB5196593D100AF4683 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		0859ADB7196593D100AF4683 /* UMSucks-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UMSucks-Prefix.pch"; sourceTree = "<group>"; };
+		0859ADB7196593D100AF4683 /* freePW_tc7200Eploit-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "freePW_tc7200Eploit-Prefix.pch"; sourceTree = "<group>"; };
 		0859ADB8196593D100AF4683 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		0859ADB9196593D100AF4683 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		0859ADBC196593D100AF4683 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main_iPhone.storyboard; sourceTree = "<group>"; };
@@ -51,13 +51,13 @@
 		0859ADC1196593D100AF4683 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		0859ADC2196593D100AF4683 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		0859ADC4196593D100AF4683 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
-		0859ADCA196593D100AF4683 /* UMSucksTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = UMSucksTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		0859ADCA196593D100AF4683 /* freePW_tc7200EploitTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = freePW_tc7200EploitTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0859ADCB196593D100AF4683 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
-		0859ADD3196593D100AF4683 /* UMSucksTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "UMSucksTests-Info.plist"; sourceTree = "<group>"; };
+		0859ADD3196593D100AF4683 /* freePW_tc7200EploitTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "freePW_tc7200EploitTests-Info.plist"; sourceTree = "<group>"; };
 		0859ADD5196593D100AF4683 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		0859ADD7196593D100AF4683 /* UMSucksTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = UMSucksTests.m; sourceTree = "<group>"; };
-		0859ADE11965940700AF4683 /* UMSucks-exploit.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UMSucks-exploit.h"; sourceTree = "<group>"; };
-		0859ADE21965940700AF4683 /* UMSucks-exploit.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UMSucks-exploit.m"; sourceTree = "<group>"; };
+		0859ADE11965940700AF4683 /* freePW_tc7200Eploit.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = freePW_tc7200Eploit.h; sourceTree = "<group>"; };
+		0859ADE21965940700AF4683 /* freePW_tc7200Eploit.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = freePW_tc7200Eploit.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,8 +97,8 @@
 		0859ADA7196593D000AF4683 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				0859ADA6196593D000AF4683 /* UMSucks.app */,
-				0859ADCA196593D100AF4683 /* UMSucksTests.xctest */,
+				0859ADA6196593D000AF4683 /* freePW_tc7200Eploit.app */,
+				0859ADCA196593D100AF4683 /* freePW_tc7200EploitTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -123,8 +123,8 @@
 				0859ADBE196593D100AF4683 /* Main_iPad.storyboard */,
 				0859ADC1196593D100AF4683 /* ViewController.h */,
 				0859ADC2196593D100AF4683 /* ViewController.m */,
-				0859ADE11965940700AF4683 /* UMSucks-exploit.h */,
-				0859ADE21965940700AF4683 /* UMSucks-exploit.m */,
+				0859ADE11965940700AF4683 /* freePW_tc7200Eploit.h */,
+				0859ADE21965940700AF4683 /* freePW_tc7200Eploit.m */,
 				0859ADC4196593D100AF4683 /* Images.xcassets */,
 				0859ADB0196593D100AF4683 /* Supporting Files */,
 			);
@@ -134,10 +134,10 @@
 		0859ADB0196593D100AF4683 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				0859ADB1196593D100AF4683 /* UMSucks-Info.plist */,
+				0859ADB1196593D100AF4683 /* freePW_tc7200Eploit-Info.plist */,
 				0859ADB2196593D100AF4683 /* InfoPlist.strings */,
 				0859ADB5196593D100AF4683 /* main.m */,
-				0859ADB7196593D100AF4683 /* UMSucks-Prefix.pch */,
+				0859ADB7196593D100AF4683 /* freePW_tc7200Eploit-Prefix.pch */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -154,7 +154,7 @@
 		0859ADD2196593D100AF4683 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				0859ADD3196593D100AF4683 /* UMSucksTests-Info.plist */,
+				0859ADD3196593D100AF4683 /* freePW_tc7200EploitTests-Info.plist */,
 				0859ADD4196593D100AF4683 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
@@ -163,9 +163,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		0859ADA5196593D000AF4683 /* UMSucks */ = {
+		0859ADA5196593D000AF4683 /* freePW_tc7200Eploit */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 0859ADDB196593D100AF4683 /* Build configuration list for PBXNativeTarget "UMSucks" */;
+			buildConfigurationList = 0859ADDB196593D100AF4683 /* Build configuration list for PBXNativeTarget "freePW_tc7200Eploit" */;
 			buildPhases = (
 				0859ADA2196593D000AF4683 /* Sources */,
 				0859ADA3196593D000AF4683 /* Frameworks */,
@@ -175,14 +175,14 @@
 			);
 			dependencies = (
 			);
-			name = UMSucks;
+			name = freePW_tc7200Eploit;
 			productName = UMSucks;
-			productReference = 0859ADA6196593D000AF4683 /* UMSucks.app */;
+			productReference = 0859ADA6196593D000AF4683 /* freePW_tc7200Eploit.app */;
 			productType = "com.apple.product-type.application";
 		};
-		0859ADC9196593D100AF4683 /* UMSucksTests */ = {
+		0859ADC9196593D100AF4683 /* freePW_tc7200EploitTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 0859ADDE196593D100AF4683 /* Build configuration list for PBXNativeTarget "UMSucksTests" */;
+			buildConfigurationList = 0859ADDE196593D100AF4683 /* Build configuration list for PBXNativeTarget "freePW_tc7200EploitTests" */;
 			buildPhases = (
 				0859ADC6196593D100AF4683 /* Sources */,
 				0859ADC7196593D100AF4683 /* Frameworks */,
@@ -193,9 +193,9 @@
 			dependencies = (
 				0859ADD0196593D100AF4683 /* PBXTargetDependency */,
 			);
-			name = UMSucksTests;
+			name = freePW_tc7200EploitTests;
 			productName = UMSucksTests;
-			productReference = 0859ADCA196593D100AF4683 /* UMSucksTests.xctest */;
+			productReference = 0859ADCA196593D100AF4683 /* freePW_tc7200EploitTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
@@ -212,7 +212,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 0859ADA1196593D000AF4683 /* Build configuration list for PBXProject "UMSucks" */;
+			buildConfigurationList = 0859ADA1196593D000AF4683 /* Build configuration list for PBXProject "freePW_tc7200Eploit" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -225,8 +225,8 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				0859ADA5196593D000AF4683 /* UMSucks */,
-				0859ADC9196593D100AF4683 /* UMSucksTests */,
+				0859ADA5196593D000AF4683 /* freePW_tc7200Eploit */,
+				0859ADC9196593D100AF4683 /* freePW_tc7200EploitTests */,
 			);
 		};
 /* End PBXProject section */
@@ -259,7 +259,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0859ADC3196593D100AF4683 /* ViewController.m in Sources */,
-				0859ADE31965940700AF4683 /* UMSucks-exploit.m in Sources */,
+				0859ADE31965940700AF4683 /* freePW_tc7200Eploit.m in Sources */,
 				0859ADBA196593D100AF4683 /* AppDelegate.m in Sources */,
 				0859ADB6196593D100AF4683 /* main.m in Sources */,
 			);
@@ -278,7 +278,7 @@
 /* Begin PBXTargetDependency section */
 		0859ADD0196593D100AF4683 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 0859ADA5196593D000AF4683 /* UMSucks */;
+			target = 0859ADA5196593D000AF4683 /* freePW_tc7200Eploit */;
 			targetProxy = 0859ADCF196593D100AF4683 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -399,10 +399,10 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "UMSucks/UMSucks-Prefix.pch";
-				INFOPLIST_FILE = "UMSucks/UMSucks-Info.plist";
+				GCC_PREFIX_HEADER = "UMSucks/freePW_tc7200Eploit-Prefix.pch";
+				INFOPLIST_FILE = "UMSucks/freePW_tc7200Eploit-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = freePW_tc7200Eploit;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -415,10 +415,10 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "UMSucks/UMSucks-Prefix.pch";
-				INFOPLIST_FILE = "UMSucks/UMSucks-Info.plist";
+				GCC_PREFIX_HEADER = "UMSucks/freePW_tc7200Eploit-Prefix.pch";
+				INFOPLIST_FILE = "UMSucks/freePW_tc7200Eploit-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = freePW_tc7200Eploit;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -438,8 +438,8 @@
 					"DEBUG=1",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = "UMSucksTests/UMSucksTests-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				INFOPLIST_FILE = "UMSucksTests/freePW_tc7200EploitTests-Info.plist";
+				PRODUCT_NAME = freePW_tc7200EploitTests;
 				TEST_HOST = "$(BUNDLE_LOADER)";
 				WRAPPER_EXTENSION = xctest;
 			};
@@ -456,8 +456,8 @@
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "UMSucks/UMSucks-Prefix.pch";
-				INFOPLIST_FILE = "UMSucksTests/UMSucksTests-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				INFOPLIST_FILE = "UMSucksTests/freePW_tc7200EploitTests-Info.plist";
+				PRODUCT_NAME = freePW_tc7200EploitTests;
 				TEST_HOST = "$(BUNDLE_LOADER)";
 				WRAPPER_EXTENSION = xctest;
 			};
@@ -466,7 +466,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		0859ADA1196593D000AF4683 /* Build configuration list for PBXProject "UMSucks" */ = {
+		0859ADA1196593D000AF4683 /* Build configuration list for PBXProject "freePW_tc7200Eploit" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				0859ADD9196593D100AF4683 /* Debug */,
@@ -475,7 +475,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		0859ADDB196593D100AF4683 /* Build configuration list for PBXNativeTarget "UMSucks" */ = {
+		0859ADDB196593D100AF4683 /* Build configuration list for PBXNativeTarget "freePW_tc7200Eploit" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				0859ADDC196593D100AF4683 /* Debug */,
@@ -484,7 +484,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		0859ADDE196593D100AF4683 /* Build configuration list for PBXNativeTarget "UMSucksTests" */ = {
+		0859ADDE196593D100AF4683 /* Build configuration list for PBXNativeTarget "freePW_tc7200EploitTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				0859ADDF196593D100AF4683 /* Debug */,
